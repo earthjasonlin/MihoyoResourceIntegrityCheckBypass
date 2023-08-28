@@ -25,6 +25,8 @@
 
 4. Enjoy~
 
+--------------------------------
+
 1. **备份 `YuanShen_Data\Persistent` 目录**
 
 2. 复制 `GenshinImpact.cmd` 到 `GenshinImpact_Data\Persistent`
