@@ -21,9 +21,11 @@
 
 2. Copy `GenshinImpact.cmd` to `GenshinImpact_Data\Persistent`
 
-3. Launch `GenshinImpact.cmd` and follow the prompts.
+3. Remove `Read-Only` for the `Persistent` folder, including subfolders (Right click on the folder)
 
-4. Enjoy~
+4. Launch `GenshinImpact.cmd` and follow the prompts.
+
+5. Enjoy~
 
 --------------------------------
 
@@ -31,6 +33,8 @@
 
 2. 复制 `GenshinImpact.cmd` 到 `GenshinImpact_Data\Persistent`
 
-3. 运行 `GenshinImpact.cmd` 并跟随提示操作
+3. 将`Persistent`文件夹取消`只读`属性，包括子文件夹（右键->属性）
 
-4. 大功告成~
+4. 运行 `GenshinImpact.cmd` 并跟随提示操作
+
+5. 大功告成~
